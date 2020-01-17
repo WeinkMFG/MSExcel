@@ -2,7 +2,7 @@
 
 This repository contains MS Excel spreadsheets in .xlsx format. Whether or not they work in OpenOffice, LibreOffice, or alike is unknown to me. Due to Excels limitations they are not by far as advanced as comparable R code, and some of the used Excel equations are rather complicated and confusing.
 
-All codes in this repository are distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). For further information, please visit my [website](https://sites.google.com/site/weinkaufmanuel/).
+All codes in this repository are distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). For further information, please visit my [website](https://sites.google.com/view/manuel-f-g-weinkauf/home).
 
 # Description of functions
 
